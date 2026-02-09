@@ -1,1 +1,1 @@
-# Instagram_Analytics_Dashbpard
+# Instagram_Analytics_Dashboard
